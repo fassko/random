@@ -6,11 +6,12 @@
 
 ## Apps installed directly from the internet:
 
-* Atom
+* Atom https://atom.io/
+* VS Code https://code.visualstudio.com/
 * Clipy https://clipy-app.com/
 * Rocket http://matthewpalmer.net/rocket
 * Sketch https://www.sketchapp.com
-* Skitch
+* Skitch https://evernote.com/products/skitch
 * iTerm https://www.iterm2.com
 * zsh https://github.com/robbyrussell/oh-my-zsh
 * Spotify https://spotify.com
@@ -23,6 +24,8 @@
 * SourceTree
 * Sattelite eyes http://satelliteeyes.tomtaylor.co.uk/
 * smcFanControl https://github.com/hholtmann/smcFanControl
+* GPG Suite https://gpgtools.org/
+
 
 ## Other Customizations
 
