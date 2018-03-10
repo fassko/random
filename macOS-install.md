@@ -25,6 +25,7 @@
 * Sattelite eyes http://satelliteeyes.tomtaylor.co.uk/
 * smcFanControl https://github.com/hholtmann/smcFanControl
 * GPG Suite https://gpgtools.org/
+* Paw https://paw.cloud/
 
 
 ## Other Customizations
