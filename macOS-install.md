@@ -16,8 +16,11 @@
 * zsh https://github.com/robbyrussell/oh-my-zsh
 * Spotify https://spotify.com
 * Homebrew http://brew.sh
-* `brew install ruby-installer chruby`
-* `gem install bundler rake`
+  * `brew install ruby-installer chruby`
+  * `gem install bundler rake`
+* Install Mint
+  * `brew tap yonaskolb/Mint https://github.com/yonaskolb/Mint.git`
+  * `brew install mint`
 * TextExpander https://smilesoftware.com/textexpander/download_thanks.html?url=http://cdn.smilesoftware.com/TextExpander_4.3.7.zip
 * Transmit https://panic.com/transmit/
 * MacDown http://macdown.uranusjr.com
