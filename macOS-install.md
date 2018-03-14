@@ -3,6 +3,7 @@
 * Slack
 * 1Password
 * Xcode
+* Magnet
 
 ## Apps installed directly from the internet:
 
