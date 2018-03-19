@@ -30,7 +30,8 @@
 * smcFanControl https://github.com/hholtmann/smcFanControl
 * GPG Suite https://gpgtools.org/
 * Paw https://paw.cloud/
-
+* MacVim
+  * brew install macvim
 
 ## Other Customizations
 
