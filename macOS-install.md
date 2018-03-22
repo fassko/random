@@ -40,3 +40,7 @@
 * `git config --global user.email fassko@gmail.com`
 * Always expand save file dialogue box `defaults write -g NSNavPanelExpandedStateForSaveMode -boolean true`
 * Import GPG key from 1Password
+
+## Command line tools
+* m-cli https://github.com/rgcr/m-cli
+* Mac CLI https://github.com/guarinogabriel/Mac-CLI
