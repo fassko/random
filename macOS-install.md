@@ -4,7 +4,7 @@
 * 1Password
 * Xcode
 * Magnet
-* Twitteriffic
+* Tweetbot
 
 
 ## Apps installed directly from the internet:
