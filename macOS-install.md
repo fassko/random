@@ -4,13 +4,14 @@
 * 1Password
 * Xcode
 * Magnet
+* Twitteriffic
+
 
 ## Apps installed directly from the internet:
 
 * Atom https://atom.io/
 * VS Code https://code.visualstudio.com/
 * Clipy https://clipy-app.com/
-* Rocket http://matthewpalmer.net/rocket
 * Sketch https://www.sketchapp.com
 * Skitch https://evernote.com/products/skitch
 * iTerm https://www.iterm2.com
