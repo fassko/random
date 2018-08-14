@@ -34,6 +34,7 @@
 * Paw https://paw.cloud/
 * MacVim
   * brew install macvim
+* Postico https://eggerapps.at/postico/
 
 ## Other Customizations
 
