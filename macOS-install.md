@@ -5,6 +5,7 @@
 * Xcode
 * Magnet
 * Tweetbot
+* ReadKit
 
 
 ## Apps installed directly from the internet:
@@ -24,12 +25,12 @@
   * `brew tap yonaskolb/Mint https://github.com/yonaskolb/Mint.git`
   * `brew install mint`
 * TextExpander https://smilesoftware.com/textexpander/download_thanks.html?url=http://cdn.smilesoftware.com/TextExpander_4.3.7.zip
-* Transmit https://panic.com/transmit/
 * MacDown http://macdown.uranusjr.com
 * SourceTree
 * Sattelite eyes http://satelliteeyes.tomtaylor.co.uk/
 * smcFanControl https://github.com/hholtmann/smcFanControl
 * GPG Suite https://gpgtools.org/
+* Postman https://www.getpostman.com/
 * Paw https://paw.cloud/
 * MacVim
   * brew install macvim
