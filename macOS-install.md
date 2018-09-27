@@ -41,7 +41,7 @@
 * Insomnia
 * VLC
 * Zeplin
-* 
+* Kaleidoscope https://www.kaleidoscopeapp.com/download
 
 ## Other Customizations
 
