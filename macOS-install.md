@@ -6,7 +6,10 @@
 * Magnet
 * Tweetbot
 * ReadKit
-
+* iMovie
+* Skitch
+* DigiDoc3
+* ID-card utility
 
 ## Apps installed directly from the internet:
 
@@ -35,6 +38,11 @@
 * MacVim
   * brew install macvim
 * Postico https://eggerapps.at/postico/
+* Docker
+* Insomnia
+* VLC
+* Zeplin
+* 
 
 ## Other Customizations
 
