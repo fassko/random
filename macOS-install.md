@@ -31,7 +31,6 @@
 * MacDown http://macdown.uranusjr.com
 * SourceTree
 * Sattelite eyes http://satelliteeyes.tomtaylor.co.uk/
-* smcFanControl https://github.com/hholtmann/smcFanControl
 * GPG Suite https://gpgtools.org/
 * Postman https://www.getpostman.com/
 * Paw https://paw.cloud/
