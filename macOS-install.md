@@ -55,6 +55,9 @@
 ## Command line tools
 * m-cli https://github.com/rgcr/m-cli
 * Mac CLI https://github.com/guarinogabriel/Mac-CLI
+* Chisel https://github.com/facebook/chisel
+* SwiftLint https://github.com/realm/SwiftLint
+* Jazzy https://github.com/realm/jazzy
 
 ## Set up git commit signing
 https://ducfilan.wordpress.com/2017/03/10/the-git-error-gpg-failed-to-sign-the-data/comment-page-1/
